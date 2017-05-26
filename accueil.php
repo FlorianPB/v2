@@ -79,7 +79,7 @@
 						<strong>2013</strong> : Mise en ligne de la V1 par Heuzef intégrant alors une dizaine de membres.<br/>
 						<strong>2014</strong> : Mise en ligne de la V2 réalisée solidairement par l'ensemble des membres, cette version remplace alors la V1 mise en place "à l’arrache" par Heuzef en 2013 et ayant très vite montré ses limites face à l’évolution du collectif.<br/>
 						<strong>2015</strong> : Lancement du projet <a href="http://sugarcub.org">SugarCUB</a> ! Outil libre permettant de disposer d'un puissant site web configurable pour tous les collectifs Brony de France.<br/>
-						<strong>2016</strong> : Déploiement de <a href="http://sugarcub.org">SugarCUB</a> en version 1.0 pour Bordeaux.
+						<strong>201X</strong> : Déploiement de <a href="http://sugarcub.org">SugarCUB</a> en version 1.0 pour Bordeaux.
 					</p>
 					<p>
 						<a href="http://sugarcub.org">SugarCUB</a> à pour vocation d'être maintenu et traduit pour l'international.<br/>
